@@ -1,0 +1,26 @@
+img{
+    height:175px;
+    width:175px;
+    border: 2px solid black;
+    border-radius: 144px;
+}
+body{
+    text-align: center;
+    background-color: rgb(211, 230, 176);
+}
+h2{
+    font-size: 32px;
+}
+h3{
+    font-weight: bold;
+}
+div{
+    display: inline-block;
+    background-color: gray;
+    border: 2px solid black;
+    padding: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 59px;
+}
+
